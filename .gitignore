@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+
+# Generated outputs
+outputs/*
+figures/*
+!outputs/.gitkeep
+!figures/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large/private raw data
+raw_data/
+*.nc
