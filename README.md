@@ -1,4 +1,4 @@
-# Gaussian Decomposition and Pigment Retrieval from Phytoplankton Absorption Spectra
+# Gaussian Decomposition and Pigment Retrieval from Phytoplankton Absorption Spectra for Sea-Bird AC-S
 
 MATLAB workflow for Gaussian decomposition of phytoplankton absorption spectra (**a<sub>ph</sub>(λ)**), retrieval of phytoplankton pigment concentrations using calibrated Multiple Linear Regression (MLR) models, and hierarchical clustering of pigments based on their predicted pigment composition.
 
