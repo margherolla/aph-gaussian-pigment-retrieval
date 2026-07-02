@@ -12,7 +12,7 @@ This repository provides a complete workflow to:
 * estimate chlorophyll-*a* (TChla) from the 676 nm Gaussian peak;
 * retrieve concentrations of 13 phytoplankton pigments using calibrated MLR models;
 * apply a regime-dependent retrieval for Hex-fucoxanthin (Hex) and 19'-Butanoyloxyfucoxanthin (But);
-* perform hierarchical clustering of pigments based on predicted pigment-to-TChla ratios.
+* perform hierarchical clustering of pigments based on predicted pigment ratios.
 
 The workflow is based on the methodology presented in:
 
